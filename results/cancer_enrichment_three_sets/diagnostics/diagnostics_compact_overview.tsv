@@ -1,0 +1,14 @@
+group	median_OR	sig_percent_BH	mean_precision_percent	mean_detected_genes
+std_log_family_mean_TOX	1.406	100	14.14	6133.7
+std_log_ortholog_mean_TOX	1.396	100	14.06	6129.9
+full_ortholog_mean_TOX	1.398	93.8	14.41	5855.2
+full_family_mean_TOX	1.383	87.5	14.04	5912.4
+TOX_AND_DGE	1.319	83.3	13.58	6154.6
+ALL_TOX	1.28	72.2	12.87	7495.1
+ALL_limma	1.201	52.8	12.44	12692.6
+ALL_DGE	1.192	47.2	12.3	14013.6
+ALL_edgeR	1.135	38.9	12.33	13154.2
+log_family_mean_TOX	0.852	8.3	11.64	3354.1
+ONLY_DGE	0.781	8.3	11.09	7859
+log_ortholog_mean_TOX	0.862	5.6	11.48	3362.8
+ONLY_TOX	0.839	0	10.07	1340.6
